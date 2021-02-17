@@ -19,7 +19,7 @@ def create_message():
 	message = ""
 	if now.hour>8 and now.hour<9:
 		message = "Don't give up Kalyani...You have come too far for that.\n"
-		message += "1. Learn from your mistakesn\n"
+		message += "1. Learn from your mistakes\n"
 		message += "2. Don't repeat your mistakes\n\n"
 		message += "Remember that time back in 2014 when you learned how to write "
 		message += "code for the first time? Remember that feeling?"
