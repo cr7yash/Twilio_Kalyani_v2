@@ -1,5 +1,4 @@
 import datetime
-import emoji
 import os
 import schedule
 from twilio.rest import Client
