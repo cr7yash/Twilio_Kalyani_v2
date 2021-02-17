@@ -1,0 +1,2 @@
+schedule==1.0.0
+twilio==6.52.0
